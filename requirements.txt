@@ -1,0 +1,7 @@
+requests
+pandas
+paddlepaddle
+paddlenlp
+matplotlib
+seaborn
+python-dotenv
