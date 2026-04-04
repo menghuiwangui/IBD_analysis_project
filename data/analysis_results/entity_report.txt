@@ -1,0 +1,55 @@
+============================================================
+IBD LITERATURE ENTITY ANALYSIS REPORT
+============================================================
+
+Total articles analyzed: 872
+
+TOP DRUGS BY CATEGORY:
+------------------------------
+Anti-TNF: 90
+Anti-IL-12/23: 35
+JAK inhibitors: 34
+Anti-integrin: 30
+Immunomodulators: 24
+5-ASA: 14
+Corticosteroids: 8
+Antibiotics: 3
+
+TOP DRUGS:
+------------------------------
+infliximab: 52
+adalimumab: 32
+vedolizumab: 30
+ustekinumab: 29
+upadacitinib: 15
+tofacitinib: 12
+azathioprine: 11
+sulfasalazine: 7
+filgotinib: 7
+risankizumab: 6
+
+TOP GENES:
+------------------------------
+TNF: 76
+STAT3: 10
+TLR4: 8
+NOD2: 5
+JAK2: 5
+IL1B: 4
+IL6: 2
+CARD9: 1
+IRGM: 1
+GPR35: 1
+
+TOP PATHWAYS:
+------------------------------
+macrophage: 47
+T cell: 45
+oxidative stress: 29
+gut barrier: 9
+autophagy: 9
+inflammasome: 8
+B cell: 6
+mucosal immunity: 4
+JAK-STAT: 3
+cytokine signaling: 3
