@@ -10,7 +10,8 @@ PUBMED_BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 MAX_RETRIES = 5
 RETRY_DELAY = 2
 REQUEST_TIMEOUT = 60
-EMAIL = "your_email@example.com"  # 务必修改
+#EMAIL = "your_email@example.com"  # 务必修改
+EMAIL = "2964668101@qq.com"
 TOOL = "IBD_Paddle_Analysis_v1.0"
 
 # 飞桨平台专用路径

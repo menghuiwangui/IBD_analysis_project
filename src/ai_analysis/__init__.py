@@ -1,5 +1,5 @@
 # src/ai_analysis/__init__.py
 from .model_training import TopicAnalyzer
-from .drug_extractor import DrugGeneExtractor
+from .entity_extractor_enhanced import EnhancedEntityExtractor
 
-__all__ = ['TopicAnalyzer', 'DrugGeneExtractor']
+__all__ = ['TopicAnalyzer', 'EnhancedEntityExtractor']

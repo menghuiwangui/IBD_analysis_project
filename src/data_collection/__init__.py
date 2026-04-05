@@ -1,5 +1,5 @@
 # src/ai_analysis/__init__.py
-from .topic_model_paddle import PaddleTopicAnalyzer
-from .entity_extractor_enhanced import EnhancedEntityExtractor
+from .data_processor_enhanced import EnhancedDataProcessor
+from .pubmed_client_enhanced import PubMedEnhancedClient
 
-__all__ = ['PaddleTopicAnalyzer', 'EnhancedEntityExtractor']
+__all__ = ['EnhancedDataProcessor', 'PubMedEnhancedClient']

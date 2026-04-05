@@ -2,8 +2,11 @@
 """
 飞桨平台专用主程序 - 增强版
 """
-import os
 import sys
+sys.path.append("/home/aistudio/work/ibd_paddlepaddle")
+
+import os
+
 import time
 import json
 import argparse

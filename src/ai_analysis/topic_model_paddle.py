@@ -27,7 +27,8 @@ except ImportError:
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation, NMF
 from sklearn.cluster import KMeans, DBSCAN
-from sklearn.manifold import TSNE, UMAP
+from sklearn.manifold import TSNE
+from umap import UMAP
 from sklearn.metrics import silhouette_score
 from sentence_transformers import SentenceTransformer
 import joblib
